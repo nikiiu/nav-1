@@ -9,4 +9,4 @@ parcel src/index.html
 
 ```
 yarn build
-```g
+```
